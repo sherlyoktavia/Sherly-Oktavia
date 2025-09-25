@@ -28,5 +28,5 @@
 ### 🤝 Connect with Me
 
 <p align="left">
-    <a href="https://www.linkedin.com/in/%20sherly-oktavia-willisa-681313224" target=""><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="your-linkedin-profile" height="30" width="40" /> LinkedIn
+    <a href="https://www.linkedin.com/in/sherlyoktaviawillisa/" target=""><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="your-linkedin-profile" height="30" width="40" /> LinkedIn
 </p>
