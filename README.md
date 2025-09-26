@@ -4,7 +4,7 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZG16NmV5c3g4cGc1b2c4eDJja3c1Znc1bXNhc3F6b2ZmeWJ3aWd0dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI0lDiKsZEeb/giphy.gif" width="300" />
 </p> -->
 
- 💻 A (still learning) Software Developer & Data Scientist. 
+ 💻 A (still learning) Software Engineer & Data Scientist. 
 
 ---
 
